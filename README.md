@@ -19,10 +19,8 @@ PCAD Exam Prep is a free web-based platform designed for students in the Digital
 - 📊 **Progress Analytics** to track your learning journey
 - 🗂️ **Smart Flashcards** with spaced repetition
 - 📝 **Note-Taking System** linked to video timestamps
-- 🏆 **Gamification** with achievements and study streaks
-
 ---
-
+<!--
 ## ✨ Key Features
 
 ### 🧠 AI-Powered Learning
